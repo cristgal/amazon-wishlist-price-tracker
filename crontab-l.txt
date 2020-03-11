@@ -1,0 +1,1 @@
+1 */6 * * * /usr/local/bin/amazon-wishlist-price-tracker/track-wishlist.sh &>/dev/null
