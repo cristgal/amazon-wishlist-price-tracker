@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Description:
-Check wheter items in an Amazon wishlist dropped in price since last time we ran this script.
+Check whether items in an Amazon wishlist dropped in price since last time we ran this script.
 Data is stored in a SQLite3 db file.
 
 Arguments:
